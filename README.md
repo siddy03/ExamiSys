@@ -16,7 +16,7 @@ The **Exam Server Project** is a web-based platform designed to conduct, manage,
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript (Angular)
 - **Backend:** Java (Spring Boot)  
 - **Database:** MySQL 
